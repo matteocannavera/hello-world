@@ -5,3 +5,5 @@ Just testing Github as our operating platform. This way we can keep working on C
 
 
 P.S. I know this sounds professional AF but if we want to do things well we will need some degree of discipline. ;)
+
+@tyler @connor @george @francesco what do you guys think?
